@@ -1,4 +1,4 @@
-# Enterprise Sales Lakehouse Pipeline | End-to-End Azure Data Engineering Project
+# Car Sales Lakehouse Pipeline | End-to-End Azure Data Engineering Project
 
 ## Overview
 
